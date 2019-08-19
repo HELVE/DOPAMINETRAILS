@@ -8,7 +8,7 @@ The trick is to attach your dopamine expectation of your animalistic side of bra
 
 Similarily, when you project a big victory with high intensity for a small step on your path you signify to your brain that this moment requires a substantial dose of dopamine and associates it with shortly incoming end or 'fake fulfillment'. Hence once we reach such a point, our motivation and core drives drop. 
 
-Now visualize your skills as the pathways to your core drives, each path representing another expansion of thought and another opportunity to enforce the dopamine stick and carrot.
+Now visualize your skills as the pathways to your core drives, each path representing another expansion of thought and another opportunity to enforce the dopamine stick and carrot and bring you further along wherever you want to go.
 
 ## Dopamine Enablers
 

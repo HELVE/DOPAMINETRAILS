@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # PROJECT 'DOPAMINE TRAILS'
-'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as individuals and what kinds of 'dopamine enablers' you need to get there. 
+'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as an individual and what kinds of 'dopamine enablers' you need to fulfill that drive. 
 
 What it is in its nature is a dopamine-based goal progression system charting out your life the way you see fit and providing a discovery platform for essential skill selection and establishment of your core drives.
 

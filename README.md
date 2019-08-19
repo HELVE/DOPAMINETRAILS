@@ -27,7 +27,7 @@ As it continues, mind becomes acquainted with the notion of a reward given for t
 
 Most people disable their skillpaths and hide their core drives by devoting their life to instant unproductive dopamine releases. Don't be a dopafiend.
 
-There are 2 types of Enablers - Knowledge Enablers and Tech Enablers.
+There are 2 types of Enablers - Knowledge Enablers and Tech Enablers:
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 

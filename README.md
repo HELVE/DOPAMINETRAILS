@@ -1,4 +1,4 @@
-![Project Banner](/assets/template_visuals/temp-banner.png)
+![Project Banner](/assets/template_visuals/dopaminetrails.png)
 
 <a name="intro"></a>
 # PROJECT DOPAMINE TRAILS 

@@ -12,7 +12,7 @@ Basis for this system lies in the assumption that 'you' consists of a logical se
 
 Now the question is how to leverage and hack these bio drives to support the core ones. Before we do that we need to look at what our animalistic side of the brain actually is.
 
-The reality is that your brain doesn't care what you want to achieve whatever it may be. 
+The reality is that your brain doesn't care what you want to achieve whatever the end 'goal' may be. 
 
 It's a constantly evolving and ever-changing program running myriads of processes simultaneously. Your thoughts and feelings are biological bits of code translated into what you experience and are mainly reliant on one simple stimulus - dopamine. 
 

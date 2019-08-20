@@ -27,9 +27,9 @@ Thoughts and emotions are the animalistic internal proceseses and environment is
 
 Identifying with these factors serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
 
-Since you can't get things done you might realize that what you want is often not aligned with what your thoughts and feelings tell you to do. Both influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
+Since you know you can't get things done you might realize that what 'you' wants is often not aligned with what your thoughts and feelings tell you to do. Both thoughts and feelings influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
-What you need to do is to recognize if there is anything else apart from the baseline biological imperatives that really drives you and realize that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through.
+If you want your willpower to align with the core drives in life what you need to do is to recognize if there is anything else apart from the baseline biological imperatives that really drives you and at the same time realize that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through.
 
 You don't need to give them absolute meaning every single time as the patterns change a lot. If they happen to be objectively useful to your core drives, use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 

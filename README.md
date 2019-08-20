@@ -18,7 +18,7 @@ It's a constantly evolving and ever-changing program running myriads of processe
 
 To properly visualize the connection between your brain and your logical self let's implement a metaphor.
 
-> Imagine that your logical self is the innermost part of a fortress. The first layer of defence around you is your thought loops. The second layer of defence is your emotion loops. The third layer of defence is your environment. All of the layers affect each other reinforcing your defensive capabilities. Now flip the perspective and realize that the self at the center is actually trapped by the fortress of the physical world and the animalistic brain. You should be trying to get inside and regain the control, don't you think?
+> Imagine that your logical self is the innermost part of a fortress. The first layer of defence around you is influenced by your thought loops. The second layer of defence is influenced by your emotion loops. The third layer of defence is influenced by your environment. All of the layers affect each other reinforcing your defensive capabilities. Now flip the perspective and realize that the self at the center is actually trapped by the fortress of the physical world and the animalistic brain. You should be trying to get inside and regain the control, don't you think?
 
 In other words - most people live outside of themselves and fully identify with their thoughts, emotions and their environment resulting in creating a life based completely on external factors. Thoughts and emotions being internal proceses and environment being anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, patterns).
 

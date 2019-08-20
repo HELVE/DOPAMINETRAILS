@@ -36,7 +36,7 @@ What if they happen to be objectively useful to your existing drives? Great! Use
 First you need to know what are your core drives so that you know where to invest your willpower. It can't go into something entirely undefined as it will dissipate over time or make you waste your time. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. 
 
 Start from there but also understand a particular difference of perspective between a goal and a core drive:
-- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end in itself. Once it is accomplished dopamine stops releasing. 
+- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an **end in itself**. Once it is accomplished dopamine stops releasing. 
 - Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain **type of progress** - not an end.
 
 Paying attention to these patterns and your state of self would be comparable to an 'active meditation'.
@@ -45,7 +45,9 @@ Once you incorporate the concept of your core drives, which happens to be not on
 
 ## Leading Device
 
-Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. Since this system can be used for creative and business endeavours a comparison to project development can be made. Notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
+Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. 
+
+Since this system of progression has been created for creative businesses in mind a comparison to project development should be made. Notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
 
 As a result you let your brain establish a stronger association between the short outburst of the 'final' accomplishment and the need for dopamine. To get rid of this way of thinking you need to make it a mindful habit to separate your animalistic brain from the short-term fulfillment that you are so accustomed to float towards.
 

@@ -29,7 +29,7 @@ Identifying with these factors serves people to suppress what really drives them
 
 Since you can't get things done you might realize that what you want is often not aligned with what your thoughts and feelings tell you to do. Both influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
-What you need to do, which happens to be not only a productivity advice but also a very powerful psychological tool, is to establish and recognize what really drives you and realize that your thoughts and emotions are generated on the fly according to prewritten patterns within you. I'd compare that state of mind to an 'active meditation'. You don't need to give them absolute meaning every single time. If they are objectively useful, use them. If not acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
+What you need to do, which happens to be not only a productivity advice but also a very powerful psychological tool, is to establish and recognize what really drives you and realize that your thoughts and emotions are generated on the fly according to prewritten patterns within you. I'd compare that state of mind to an 'active meditation'. You don't need to give them absolute meaning every single time. If they are objectively useful to you core drives, use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 
 Once you understand the concept that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
 

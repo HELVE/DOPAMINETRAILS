@@ -21,19 +21,11 @@ In other words - most people live outside of themselves and fully identify with 
 
 To clarify the context: thoughts and emotions are the animalistic proceseses and environment is anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, following patterns). 
 
-
-
 Identifying with these factors to various degrees serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
 
-It's not what your thoughts want as they are controlled by your feelings and it's not what your feelings want because they are controlled by the environment and your thoughts alike. It's a looping intertwined system. Your bio drive.
-It's not what your emotions want as both influence each other to spiral out of control if left unchecked. 
+Since you can't get things done you might realize that what you want is often not aligned with what your thoughts and feelings tell you to do. It's not what your emotions want as both influence each other to spiral out of control if left unchecked.  It's a looping intertwined system. Your bio drive.
 
-
-It's not what your animalistic side wants as it is easily influenced, immediate threat being your brain.
-
-What you need to do is to establish and recognize what really drives you and know that your thoughts and emotions are generated on the fly and you don't need to give them weight every single time. 
-
-Acknowledge them but know you don't need to act on them. It's like an active meditation. 
+What you need to do is to establish and recognize what really drives you and realize that your thoughts and emotions are generated on the fly and you don't need to give them weight every single time, which is not only a productivity advice but also a very powerful psychological tool. Acknowledge them but know you don't need to act on them. It's like an active meditation. 
 
 Once you have that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
 

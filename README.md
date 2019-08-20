@@ -63,7 +63,7 @@ UNDER CONSTRUCTION
 
 ## Skillpaths
 
-Dopamine Trails is based on 3 Directive Protocols established by Helve AVR. Think of them as chunks of code referring to stages of progress: Surival (Alpha), Knowledge/Discovery (Beta), Creativity/Expression (Gamma). Completing a setup for any of those will give you maximized dopamine boost.
+Dopamine Trails is based on 3 of the [Directive Protocols established by Helve AVR](https://github.com/HELVE/OVERVIEW/wiki/Directive-Protocols). Think of them as chunks of code referring to stages of progress: Surival (Alpha), Knowledge/Discovery (Beta), Creativity/Expression (Gamma). Completing a setup for any of those will give you maximized dopamine boost.
 
 In order to start pursuing a Skillpath you need to fulfill your very basic needs outlined by Directive Protocol Alpha: Survival, which contains programs providing optimal mental and physical base for dopamine boosts. The following programs belong to Surival: Environment Optimization, Self-care (includes Medbay, Nutrition, Physical Training, Grounding and Guardian Subprograms), Community and Cultural Involvement as well as Safety and Security Program (Income Streams, Base Expenses, Investments and Physical Need Optimization).
 

@@ -22,7 +22,7 @@ To properly visualize the connection between your brain and your logical self le
 
 In other words - most people live outside of themselves and fully identify with their thoughts, emotions and their environment resulting in creating a life based completely on external factors. Thoughts and emotions being internal proceses and environment being anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, patterns).
 
-Identifying with these factors to various degrees serves people to supress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
+Identifying with these factors to various degrees serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
 
 It's not what your animalistic side wants as it is easily influenced, immediate threat being your brain. It's not what you thoughts want either. They are controlled by your feelings and it's not what your feelings want because they are controlled by the environment and your thoughts alike. It's a looping intertwined system. Your bio drive.
 

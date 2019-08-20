@@ -19,7 +19,7 @@ To properly visualize the connection between your brain and your logical self le
 
 In other words - most people live outside of themselves and fully identify with their thoughts, emotions and their environment resulting in living a life based completely on external factors. To some that can feel out of place and leaves them struggling with themselves for years.
 
-To clarify the context: thoughts and emotions are the animalistic proceseses and environment is anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, following patterns). 
+To clarify the context: thoughts and emotions are the animalistic internal proceseses and environment is anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, following patterns). 
 
 Identifying with these factors to various degrees serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
 

@@ -23,19 +23,23 @@ To clarify the context: thoughts and emotions are the animalistic internal proce
 
 Identifying with these factors to various degrees serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
 
-Since you can't get things done you might realize that what you want is often not aligned with what your thoughts and feelings tell you to do. It's not what your emotions want as both influence each other to spiral out of control if left unchecked.  It's a looping intertwined system. Your bio drive.
+Since you can't get things done you might realize that what you want is often not aligned with what your thoughts and feelings tell you to do. Both influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
-What you need to do is to establish and recognize what really drives you and realize that your thoughts and emotions are generated on the fly and you don't need to give them weight every single time, which is not only a productivity advice but also a very powerful psychological tool. Acknowledge them but know you don't need to act on them. It's like an active meditation. 
+What you need to do, which is not only a productivity advice but also a very powerful psychological tool, is to establish and recognize what really drives you and realize that your thoughts and emotions are generated on the fly. You don't need to give them absolute meaning every time. Acknowledge them but know you don't need to act on them. They are not the actual you. I'd compare that state of mind to an active meditation.
 
 Once you have that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
 
 ## Leading Device
 
-The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading' device not an end reward itself. Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled, end of story.
+Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled as quickly as possible, end of story. It is very similar to a situation where you intensly project a frame of a big victory on a small step of your path.
 
-Similarily, when you project a big victory of high intensity for a small step on your path you signify to your animalistic brain that this moment will require a substantial dose of dopamine and the result is that it senses a shortly incoming end or how I call it - 'fake fulfillment'.
+You signify to your animalistic brain a shortly incoming end or how I call it - 'fake fulfillment'. At the same time you let your brain make a stronger association between the very short outburst of final accomplishment and a substantial dose of dopamine. Notice that once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. The whole idea of this system is that we want to avoid that.
 
-Hence once we reach such a point, our feeling of motivation and core drive drops activity completely. The whole idea of this system is that we want to avoid that. Next thing is the distinction between a goal and a core drive as it is essential to understand the difference of perspective. 
+The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading' device not an end reward itself. 
+
+
+
+ Next thing is the distinction between a goal and a core drive as it is essential to understand the difference of perspective. 
 
 - Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end to itself. Once it is accomplished dopamine stops releasing. 
 

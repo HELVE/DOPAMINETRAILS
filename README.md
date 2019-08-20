@@ -6,28 +6,43 @@
 
 In its nature it is a dopamine-based progression system helping you chart out your life the way you see fit and providing a discovery platform for skill selection and more importantly establishment of your core drives.
 
+## The Layers of Self
+
+Basis for this system lies in the assumption that 'you' consists of a logical self, which is your deep consciousness and the animalistic self, which is your brain. Logical self contains your core drives while your animalistic self contains your outdated bio drives (human default is dopamine intake, propagation of DNA).
+
+Now the question is how to leverage and hack these bio drives to support the core ones. Before we do that we need to look at what our animalistic side of the brain actually is.
+
+The reality is that your brain doesn't care what you want to achieve whatever it may be. 
+
+It's a constantly evolving and ever-changing program running myriads of processes simultaneously. Your thoughts and feelings are biological bits of code translated into what you experience and are mainly reliant on one simple stimulus - dopamine. 
+
+To properly visualize the connection between your brain and your logical self let's implement a metaphor.
+
+> Imagine that your logical self is the innermost part of a fortress. The first layer of defence around you is influenced by your thought loops. The second layer of defence is influenced by your emotion loops. The third layer of defence is influenced by your environment. All of the layers affect each other reinforcing your defensive capabilities. Now flip the perspective and realize that the self at the center is actually trapped by the fortress of the world and your animalistic brain and you should be trying to get inside and regain the control.
+
+In other words - most people live outside of themselves and fully identify with their thoughts, emotions and their environment resulting in creating a life based on external factors. Environment being anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, patterns).
+
+Identifying with these factors to various degrees serves people to supress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
+
+It's not what your animalistic side wants as it is easily influenced, immediate threat being your brain. It's not what you thoughts want either. They are controlled by your feelings and it's not what your feelings want because they are controlled by the environment and your thoughts alike. It's a looping intertwined system. Your bio drive.
+
+What you need to do is to establish and recognize what really drives you and know that your thoughts and emotions are generated on the fly and you don't need to give them weight every single time. 
+
+Acknowledge them but you don't need to act on them. Once you have that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
+
 ## Leading Device
-Basis for this system lies in the assumption that 'you' consist of a logical self, containing your ultimately conscious drives and the animalistic self, which is your brain. 
 
-The reality is that your brain doesn't care what you want to achieve whatever it may be. It's a program constantly running processes, your throughts and feelings are bits of code translated into what you experience. 
-
-Imagine that your logical self is a fortress, the first outer layer of defence influenced by thought loops which are influenced by emotion loops which in turn are influenced by your environment. Now flip the notion and realize that it is the self that it is trapped by the fortress of the world.
-
-Long story short, the trick is to attach your dopamine expectation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as a endless 'leading' device not an end reward itself. Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled, end of story.
+The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading' device not an end reward itself. Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled, end of story.
 
 Similarily, when you project a big victory of high intensity for a small step on your path you signify to your brain that this moment requires a substantial dose of dopamine and associates it with shortly incoming end or 'fake fulfillment'. 
 
-Hence once we reach such a point, our motivation and core drives drop completely. 
+Hence once we reach such a point, our feeling of motivation and core drive drops activity completely. We want to avoid that but first mind the distinction between a goal and a core drive as it is essential to understand the difference of perspective. 
 
-Mind the distinction between goals, which is what usually people mentally project when they want to describe what they want, and core drives as it is essential to understand the difference. 
+- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end to itself. Once it is accomplished dopamine stops releasing. 
 
-- Goal as a mental construct is an end to itself. Once it is accomplished dopamine stops releasing. 
+- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end in itselt.
 
-- Core drive as a mental construct is subconscious effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end in itself as our animalistic
-
-(whatever it may be, human default is propagation of DNA achieved through survival but it is up to you to define it)
-
-We want to avoid that but first let's take a look at what skill selection means in this system.
+Let's take a look at what skill selection means in this progression system.
 
 ## Skillpaths
 Once you set up all you basic Survival needs to maximize production of dopamine in your body visualize your skills as paths. They are the various ways enabling you to express your core drives, each path representing another expansion of thought and another opportunity to introduce the dopamine stick and carrot bringing you further along wherever you want to go. 

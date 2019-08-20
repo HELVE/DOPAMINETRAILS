@@ -8,16 +8,13 @@ In its nature it is a dopamine-based progression system helping you chart out yo
 
 ## The Layers of Self
 
-Basis for this system lies in the assumption that 'you' consists of a logical self, which is your deep consciousness and the animalistic self, which is your brain. Logical self contains your core drives while your animalistic self contains your outdated bio drives (human default is dopamine intake, propagation of DNA).
+Basis for this system lies in the assumption that 'you' consists of a logical self, which is your deep consciousness and the animalistic self, which is your brain. Logical self contains your core drives that tend to act for a short time while your animalistic self contains your outdated bio drives (human default is dopamine intake, propagation of DNA) that can pretty much act endlessly.
 
 Now the question is how to leverage and hack these bio drives to support the core ones. Before we do that we need to look at what our animalistic side of the brain actually is.
 
-The reality is that your brain doesn't care what you want to achieve whatever the end 'goal' may be. 
-
-It's a constantly evolving and ever-changing program running myriads of processes simultaneously. Your thoughts and feelings are biological bits of code translated into what you experience and are mainly reliant on one simple stimulus - dopamine. 
+The reality is that your brain doesn't care what you want to achieve whatever the end 'goal' may be. It's a constantly evolving and ever-changing program running myriads of processes simultaneously. Your thoughts and feelings are biological bits of code translated into what you experience and are mainly reliant on one simple stimulus - dopamine. 
 
 To properly visualize the connection between your brain and your logical self let's implement a metaphor.
-
 > Imagine that your logical self is the innermost part of a fortress. The first layer of defence around you is influenced by your thought loops. The second layer of defence is influenced by your emotion loops. The third layer of defence is influenced by your environment. All of the layers affect each other reinforcing your defensive capabilities. Now flip the perspective and realize that the self at the center is actually trapped by the fortress of the physical world and the animalistic brain. You should be trying to get inside and regain the control, don't you think?
 
 In other words - most people live outside of themselves and fully identify with their thoughts, emotions and their environment resulting in creating a life based completely on external factors. Thoughts and emotions being internal proceses and environment being anything ranging from physical surroundings through what's going on around you to groupthink, which is even deeper embedded in our anima (politics, opinions, trends, memes, patterns).

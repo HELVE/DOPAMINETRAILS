@@ -29,32 +29,36 @@ Identifying with these factors serves people to suppress what really drives them
 
 Since you know you can't get things done you might already realize that what 'you' wants is often not aligned with what your thoughts and feelings tell you to do. Even if there seem to be logical reasons, both thoughts and feelings influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
-Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns change a lot. 
+Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns constantly change. 
 
-They happen to be objectively useful to your existing drives? Great! Use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
+What if they happen to be objectively useful to your existing drives? Great! Use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 
-Want your willpower back? First you need to know what are your core drives so that you know where to invest that willpower. It can't go into something undefined as it will dissipate. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Start from there.
+First you need to know what are your core drives so that you know where to invest your willpower. It can't go into something entirely undefined as it will dissipate over time or make you waste your time. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. 
 
-Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'. Make it a corrective habit to separate your animalistic brain from the short-term releases that you are so accustomed to float towards.
+Start from there but understand the difference of particular perspective. There is a significant distinction between a goal and a core drive as you might presume.
+- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end in itself. Once it is accomplished dopamine stops releasing. 
+- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain **type of progress** - not an end.
 
-Once you understand the concept, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drives in a productive way by using a leading device.
+Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'.
+
+Once you incorporate the concept of your core drives, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drive in a productive way by using a leading device described below.
 
 ## Leading Device
 
-Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled as quickly as possible, end of story. It is very similar to a situation where you intensly project a frame of a big victory on a small step of your path of progression, which we will talk about in the next section.
+Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. For the purposes of creative and business endeavours: notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
 
-Framing it this way makes you signify to your animalistic brain an incoming end or how I call it - 'fake fulfillment'. At the same time you let your brain make an association between the very short outburst of the final accomplishment and a substantial need for dopamine stronger. 
+At the same time you let your brain make an association between the short outburst of the 'final' accomplishment and the need for dopamine stronger again and again. To get rid of it you need to make it a corrective habit to separate your animalistic brain from the short-term fulfillment that you are so accustomed to float towards.
 
-Notice that sometimes once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again. The whole idea of this system is that we want to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - meaning "stay at it".
+Notice that sometimes once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again as quickly as possible. The whole idea of this system is to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - meaning long-term progress or wherever you want your path to lead.
 
-The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading device', not an end reward itself. 
+The trick is to attach your dopamine triggers of the animalistic brain to the logical steps on your progress ladder and treat dopamine as an endless 'leading device', not focusing on the immediate end reward.
 
-Now it is essential to understand the difference of perspective. There is a distinction between a goal and a core drive. 
+In order for a leading device to work you need to:
 
-- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end in itself. Once it is accomplished dopamine stops releasing. 
-- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end.
+- approximate the things that will put you on a straight path to expressing your core drives. Think of it as attaching dopamine loops to programs in yourself you want to be actually running. 
+- 
 
-In order for a leading device to work you need to approximate the things that will put you on a straight path to expressing your core drives. Think of it as attaching dopamine loops to programs in your self you want to be actually running. Let's take a look at what skill selection means in this progression system.
+Let's take a look at what skill selection means in this progression system.
 
 UNDER CONSTRUCTION
 

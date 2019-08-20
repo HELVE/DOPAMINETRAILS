@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # PROJECT 'DOPAMINE TRAILS'
-'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as an individual and what kinds of 'enablers' you need to fulfill that drive. 
+'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as an human being and what kinds of 'enablers' you need to fulfill that drive. It was mainly created with creative individuals and businesses in mind.
 
 In its nature it is a **dopamine-based progression system** helping you chart out your life the way you see fit and providing a discovery platform for skill selection and more importantly establishment of your core drives.
 
@@ -45,9 +45,7 @@ Once you incorporate the concept of your core drives, which happens to be not on
 
 ## Leading Device
 
-Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. 
-
-Since this system of progression has been created for creative businesses in mind a comparison to project development should be made. Notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
+Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. Notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
 
 As a result you let your brain establish a stronger association between the short outburst of the 'final' accomplishment and the need for dopamine. To get rid of this way of thinking you need to make it a mindful habit to separate your animalistic brain from the short-term fulfillment that you are so accustomed to float towards.
 

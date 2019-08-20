@@ -19,21 +19,23 @@ The reality is that your brain doesn't care what you want to achieve whatever th
 It's a constantly evolving and ever-changing program running myriads of processes simultaneously. Your thoughts and feelings are biological bits of code translated into what you experience and are mainly reliant on one simple stimulus - dopamine. 
 
 Let's implement a mental exercise to properly visualize the connection between your brain and your logical self.
-> Imagine that your logical self is the innermost part of a fortress. The 1st layer of defence around you is influenced by your thought loops. The 2nd layer of defence is influenced by your emotion loops. The 3rd outermost layer of defence is influenced by your environment. All of the layers affect each other reinforcing the fortress. Now flip the perspective and realize that the self at the center is actually trapped by the fortress of the physical world and the animalistic brain. You should be trying to get inside and regain the control, don't you think?
+> Imagine that your logical self is the innermost part of a fortress. The 1st layer of defence around you is influenced by your thought loops. The 2nd layer of defence is influenced by your emotion loops. The 3rd outermost layer of defence is influenced by your environment. All of the layers affect each other reinforcing the fortress. Now flip the perspective and realize that the self at the center is actually trapped by the dopamine fortress of the physical world and the animalistic brain. You should be trying to get inside and regain the control, don't you think?
+
+Thought and emotion layers are the animalistic internal proceseses and the environment layer is anything ranging from physical surroundings, what's going on around you to groupthink encompassing things like politics, opinions, trends, memes, following patterns embedded even deeper in our animalistic self.
 
 In other words - most people live outside of themselves and in various degrees identify with their thoughts, emotions and their environment resulting in living a life based completely on external factors. To some that can feel out of place and leaves them struggling with themselves for years.
 
-Thoughts and emotions are the animalistic internal proceseses and environment is anything ranging from physical surroundings through what's going on around you to even deeper embedded in our anima groupthink (politics, opinions, trends, memes, following patterns).
+Identifying with these factors serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end. It can make you go insane.
 
-Identifying with these factors serves people to suppress what really drives them at their core, which, let me tell you, is only natural if you've been relying on your thoughts and emotions for decades on end.
+Since you know you can't get things done you might already realize that what 'you' wants is often not aligned with what your thoughts and feelings tell you to do. Even if there seem to be logical reasons, both thoughts and feelings influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
-Since you know you can't get things done you might realize that what 'you' wants is often not aligned with what your thoughts and feelings tell you to do. Both thoughts and feelings influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
+Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns change a lot. 
 
-If you want your willpower to align with the core drives in life what you need to do is to recognize if there is anything else apart from the baseline biological imperatives that really drives you and at the same time realize that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through.
+They happen to be objectively useful to your existing drives? Great! Use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 
-You don't need to give them absolute meaning every single time as the patterns change a lot. If they happen to be objectively useful to your core drives, use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
+Want your willpower back? First you need to know what are your core drives so that you know where to invest that willpower. It can't go into something undefined as it will dissipate. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Start from there.
 
-Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'. 
+Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'. Make it a corrective habit.
 
 Once you understand the concept, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drives in a productive way by using a leading device.
 
@@ -43,11 +45,11 @@ Modern society got you used to high intensity quick gratification - there is a n
 
 Framing it this way makes you signify to your animalistic brain an incoming end or how I call it - 'fake fulfillment'. At the same time you let your brain make an association between the very short outburst of the final accomplishment and a substantial need for dopamine stronger. 
 
-Notice that sometimes once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again. The whole idea of this system is that we want to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - "stay at it".
+Notice that sometimes once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again. The whole idea of this system is that we want to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - meaning "stay at it".
 
-The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading' device not an end reward itself. 
+The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading device', not an end reward itself. 
 
-There is a distinction between a goal and a core drive. It is essential to understand the difference of perspective. 
+Now it is essential to understand the difference of perspective. There is a distinction between a goal and a core drive. 
 
 - Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end in itself. Once it is accomplished dopamine stops releasing. 
 - Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end.

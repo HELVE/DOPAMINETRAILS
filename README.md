@@ -29,25 +29,28 @@ Identifying with these factors serves people to suppress what really drives them
 
 Since you can't get things done you might realize that what you want is often not aligned with what your thoughts and feelings tell you to do. Both influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
-What you need to do, which happens to be not only a productivity advice but also a very powerful psychological tool, is to establish and recognize what really drives you and realize that your thoughts and emotions are generated on the fly according to prewritten patterns within you. I'd compare that state of mind to an 'active meditation'. You don't need to give them absolute meaning every single time. If they are objectively useful to you core drives, use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
+What you need to do is to recognize if there is anything else apart from the baseline biological imperatives that really drives you and realize that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through.
 
-Once you understand the concept that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
+You don't need to give them absolute meaning every single time as the patterns change a lot. If they happen to be objectively useful to your core drives, use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
+
+Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'. 
+
+Once you understand the concept, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drives in a productive way by using a leading device.
 
 ## Leading Device
 
-Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled as quickly as possible, end of story. It is very similar to a situation where you intensly project a frame of a big victory on a small step of your path.
+Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled as quickly as possible, end of story. It is very similar to a situation where you intensly project a frame of a big victory on a small step of your path of progression, which we will talk about in the next section.
 
-You signify to your animalistic brain a shortly incoming end or how I call it - 'fake fulfillment'. At the same time you let your brain make a stronger association between the very short outburst of final accomplishment and a substantial dose of dopamine. Notice that once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. The whole idea of this system is that we want to avoid that.
+Framing it this way makes you signify to your animalistic brain an incoming end or how I call it - 'fake fulfillment'. At the same time you let your brain make an association between the very short outburst of the final accomplishment and a substantial need for dopamine stronger. 
+
+Notice that sometimes once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again. The whole idea of this system is that we want to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - "stay at it".
 
 The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading' device not an end reward itself. 
 
+There is a distinction between a goal and a core drive. It is essential to understand the difference of perspective. 
 
-
- Next thing is the distinction between a goal and a core drive as it is essential to understand the difference of perspective. 
-
-- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end to itself. Once it is accomplished dopamine stops releasing. 
-
-- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end in itself.
+- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end in itself. Once it is accomplished dopamine stops releasing. 
+- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end.
 
 In order for a leading device to work you need to approximate the things that will put you on a straight path to expressing your core drives. Think of it as attaching dopamine loops to programs in your self you want to be actually running. Let's take a look at what skill selection means in this progression system.
 

@@ -124,4 +124,5 @@ Insert project licensing options if there are any.
 
 <a name="credits"></a>
 ### Credits
-Insert project creator entities, contributors and their respective presence links.
+Thanks go to Alex Becker for providing insight 
+[https://www.youtube.com/watch?v=nrf489UDXMU]

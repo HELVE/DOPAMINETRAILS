@@ -28,24 +28,28 @@ It's not what your animalistic side wants as it is easily influenced, immediate 
 
 What you need to do is to establish and recognize what really drives you and know that your thoughts and emotions are generated on the fly and you don't need to give them weight every single time. 
 
-Acknowledge them but you don't need to act on them. Once you have that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
+Acknowledge them but know you don't need to act on them. It's like an active meditation. 
+
+Once you have that you can proceed with implementing Dopamine Trails and using your outdated bio drives in a productive way.
 
 ## Leading Device
 
 The trick is to attach your dopamine anticipation of the animalistic brain to the rational steps on your progress ladder and treat dopamine as an endless 'leading' device not an end reward itself. Modern society got you used to high intensity quick gratification - there is a need, the need is fulfilled, end of story.
 
-Similarily, when you project a big victory of high intensity for a small step on your path you signify to your brain that this moment requires a substantial dose of dopamine and associates it with shortly incoming end or 'fake fulfillment'. 
+Similarily, when you project a big victory of high intensity for a small step on your path you signify to your animalistic brain that this moment will require a substantial dose of dopamine and the result is that it senses a shortly incoming end or how I call it - 'fake fulfillment'.
 
-Hence once we reach such a point, our feeling of motivation and core drive drops activity completely. We want to avoid that but first mind the distinction between a goal and a core drive as it is essential to understand the difference of perspective. 
+Hence once we reach such a point, our feeling of motivation and core drive drops activity completely. The whole idea of this system is that we want to avoid that. Next thing is the distinction between a goal and a core drive as it is essential to understand the difference of perspective. 
 
 - Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an end to itself. Once it is accomplished dopamine stops releasing. 
 
-- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end in itselt.
+- Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain type of progress - not an end in itself.
 
-Let's take a look at what skill selection means in this progression system.
+In order for a leading device to work you need to approximate the things that will put you on a straight path to expressing your core drives so let's take a look at what skill selection means in this progression system.
+
+UNDER CONSTRUCTION
 
 ## Skillpaths
-Once you set up all you basic Survival needs to maximize production of dopamine in your body visualize your skills as paths. They are the various ways enabling you to express your core drives, each path representing another expansion of thought and another opportunity to introduce the dopamine stick and carrot bringing you further along wherever you want to go. 
+Once you set up all you basic Survival needs to maximize production of dopamine in your body, visualize your skills as paths. They are the various ways enabling you to express your core drives, each path representing another expansion towards feeling fulfullment and another opportunity to introduce the dopamine stick and carrot bringing you further along wherever you want to go. 
 
 To facilitate this process so-called Enablers exist.
 
@@ -56,9 +60,9 @@ Technically by reaching an Enabler you get an immediate dopamine boost due to re
 
 As it continues, mind becomes acquainted with the notion of a reward given for taking advantage of an opportunity to advance on the progress instead of treating any point on it as a final destination. In other words, over time you start releasing dopamine whenever you find knowledge or technology that will aid you in your progress. 
 
-Most people disable their skillpaths and hide their core drives by devoting their life to instant unproductive dopamine releases. Don't be a dopafiend.
+Most people disable their skillpaths and hide their core drives by devoting their life to instant unproductive dopamine releases. 
 
-There are 2 types of Enablers - Knowledge Enablers and Tech Enablers:
+There are 2 types of Enablers - Knowledge Enablers and Tech Enablers.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 

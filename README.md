@@ -35,7 +35,7 @@ They happen to be objectively useful to your existing drives? Great! Use them to
 
 Want your willpower back? First you need to know what are your core drives so that you know where to invest that willpower. It can't go into something undefined as it will dissipate. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Start from there.
 
-Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'. Make it a corrective habit.
+Paying attention to these patterns and your state of mind would be comparable to an 'active meditation'. Make it a corrective habit to separate your animalistic brain from the short-term releases that you are so accustomed to float towards.
 
 Once you understand the concept, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drives in a productive way by using a leading device.
 

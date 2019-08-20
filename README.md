@@ -47,22 +47,24 @@ Once you incorporate the concept of your core drives, which happens to be not on
 
 Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. For the purposes of creative and business endeavours: notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
 
-At the same time you let your brain make an association between the short outburst of the 'final' accomplishment and the need for dopamine stronger again and again. To get rid of it you need to make it a corrective habit to separate your animalistic brain from the short-term fulfillment that you are so accustomed to float towards.
+At the same time you let your brain make an association between the short outburst of the 'final' accomplishment and the need for dopamine stronger time and time again. To get rid of it you need to make it a corrective habit to separate your animalistic brain from the short-term fulfillment that you are so accustomed to float towards.
 
-Notice that sometimes once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again as quickly as possible. The whole idea of this system is to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - meaning long-term progress or wherever you want your path to lead.
+Most of the time once you reach such a point of hype, your feeling of motivation and core drive drop activity completely. Your whole body and mind want to desperately move to something different in order to feel the dopamine rush again as quickly as possible. The whole idea of this system is to avoid that so we can focus not on what our animalistic self wants but on what our logical self wants - meaning long-term progress or wherever you want your path to lead.
 
 The trick is to attach your dopamine triggers of the animalistic brain to the logical steps on your progress ladder and treat dopamine as an endless 'leading device', not focusing on the immediate end reward.
 
 In order for a leading device to work you need to:
+- approximate the things that will put you on a straight road to expressing your core drives using a module called Skillpaths. Think of it as attaching dopamine loops to overarching programs in yourself you actually want to be running. 
+- create a step by step masterplan for every Skillpath making sure it contains a lot of modules called Enablers. These are the key moments when we want the dopamine to trigger to reinforce our continous drive.
 
-- approximate the things that will put you on a straight path to expressing your core drives. Think of it as attaching dopamine loops to programs in yourself you want to be actually running. 
-- 
-
-Let's take a look at what skill selection means in this progression system.
+Let's take a look in detail at what the skill selection means and further down the line what Enablers can do for you in this particular progression system.
 
 UNDER CONSTRUCTION
 
 ## Skillpaths
+
+- Directive Protocols: Survival, Creativity/Expression
+
 Once you set up all you basic Survival needs to maximize production of dopamine in your body, visualize your skills as paths. They are the various ways enabling you to express your core drives, each path representing another expansion towards feeling fulfullment and another opportunity to introduce the dopamine stick and carrot bringing you further along wherever you want to go. 
 
 To facilitate this process so-called Enablers exist.

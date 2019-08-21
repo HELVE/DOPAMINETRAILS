@@ -74,13 +74,13 @@ To facilitate this process so-called Enablers exist.
 ## Enablers
 Enablers are points often encountered on your skillpaths (but not only there) that open doors for further major advancement in any problem that needs to be solved in order to progress.
 
-Technically by reaching an Enabler you get an immediate dopamine boost due to reaching a goal or a requirement for a next step. The latter is essential to note here and plays a vital role in this perspective shifting process.
+Technically by reaching an Enabler you get an immediate dopamine boost due to reaching another step or in fact a requirement for a next step. The latter distinction is essential to note here and plays a vital role in this perspective shifting process.
 
-As it continues, mind becomes acquainted with the notion of a reward given for taking advantage of an opportunity to advance on the progress instead of treating any point on it as a final destination. In other words, over time you start releasing dopamine whenever you find knowledge or technology that will aid you in your progress. 
+As it continues, mind becomes acquainted with the notion of a reward given for taking advantage of an opportunity to advance on the progress instead of treating any point as a final destination. In other words, over time you start releasing dopamine whenever you find knowledge, technology or inspiration that will aid you in your further endeavours. 
 
-Most people disable their skillpaths and hide their core drives by devoting their life to instant unproductive dopamine releases. 
+Most people disable their skillpaths and hide their core drives by either consciously or subconsciously devoting their life to quick dopamine fixes.
 
-There are 2 types of Enablers - Knowledge Enablers and Tech Enablers.
+??? There are 2 types of Enablers - Knowledge Enablers and Tech Enablers. Also there is the Jordan enabler. But that's just for kicks.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 

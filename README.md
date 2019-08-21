@@ -36,7 +36,7 @@ What if they happen to be objectively useful to your existing drives? Great! Use
 First you need to know what are your core drives so that you know where to invest your willpower. It can't go into something entirely undefined as it will dissipate over time or make you waste your time. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. 
 
 Start from there but also understand a particular difference of perspective between a goal and a core drive:
-- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an **end in itself**. Once it is accomplished dopamine stops releasing. 
+- Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an **end in itself**. Once it is reached dopamine stops releasing. 
 - Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain **type of progress** - not an end.
 
 Paying attention to these patterns and your state of self would be comparable to an 'active meditation'.

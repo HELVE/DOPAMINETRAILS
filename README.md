@@ -80,7 +80,11 @@ As it continues, mind becomes acquainted with the notion of a reward given for t
 
 Most people disable their skillpaths and hide their core drives by either consciously or subconsciously devoting their life to quick dopamine fixes.
 
+NOTES
+
 ??? There are 2 types of Enablers - Knowledge Enablers and Tech Enablers. Also there is the special Fjordan enabler. But that's just for kicks.
+
+People tend to gravitate toward sophisticated ways of dopamine acquisition. The end result is the same whether you win a lottery or eat a cookie - another dose of dopamine.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 

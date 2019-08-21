@@ -31,6 +31,8 @@ Since you know you can't get things done you might already realize that what 'yo
 
 Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns constantly change. 
 
+Scanning these patterns and your state of self would be comparable to an 'active meditation'.
+
 What if they happen to be objectively useful to your existing drives? Great! Use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 
 First you need to know what are your core drives so that you know where to invest your willpower. It can't go into something entirely undefined as it will dissipate over time or make you waste your time. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. 
@@ -38,8 +40,6 @@ First you need to know what are your core drives so that you know where to inves
 Start from there but also understand a particular difference of perspective between a goal and a core drive:
 - Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an **end in itself**. Once it is reached dopamine stops releasing. 
 - Core drive as a mental construct is an effort you can establish and recognize as an underlying force within yourself that propels you towards a certain **type of progress** - not an end.
-
-Paying attention to these patterns and your state of self would be comparable to an 'active meditation'.
 
 Once you incorporate the concept of your core drives, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drive in a productive way by using a leading device described below.
 

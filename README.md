@@ -72,7 +72,7 @@ Once you set up all you basic Survival needs to maximize production of dopamine 
 To facilitate this process so-called Enablers exist.
 
 ## Enablers
-Enablers are points often encountered on your skillpaths (but not only there) that open doors for further major advancement in any problem that needs to be solved. 
+Enablers are points often encountered on your skillpaths (but not only there) that open doors for further major advancement in any problem that needs to be solved in order to progress.
 
 Technically by reaching an Enabler you get an immediate dopamine boost due to reaching a goal or a requirement for a next step. The latter is essential to note here and plays a vital role in this perspective shifting process.
 

@@ -80,7 +80,7 @@ As it continues, mind becomes acquainted with the notion of a reward given for t
 
 Most people disable their skillpaths and hide their core drives by either consciously or subconsciously devoting their life to quick dopamine fixes.
 
-??? There are 2 types of Enablers - Knowledge Enablers and Tech Enablers. Also there is the Jordan enabler. But that's just for kicks.
+??? There are 2 types of Enablers - Knowledge Enablers and Tech Enablers. Also there is the special Fjordan enabler. But that's just for kicks.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 

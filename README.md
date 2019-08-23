@@ -7,7 +7,6 @@
 In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives.
 
 ## The Layers of Self
-
 Basis for this system lies in the assumption that 'you' consists of a **logical self**, which is your inner consciousness and the **animalistic self**, which is your brain. 
 
 Logical self contains your **core drives** that tend to act for a short time while your animalistic self contains your outdated **bio drives** (human default is dopamine intake, propagation of DNA) that can act endlessly.
@@ -44,7 +43,6 @@ Start from there but also understand a particular difference of perspective betw
 Once you incorporate the concept of your core drives, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drive in a productive way by using a leading device described below.
 
 ## Leading Device
-
 Modern society got you used to quick gratification and finding unlimited fixes - there is a need, the need is fulfilled as quickly as possible, end of story. Notice the short-term pattern in a very similar situation where you intensly project a frame of a big victory on a small step of your path of progression. Framing it this way makes you signify to your animalistic brain an incoming end or 'fake fulfillment'. 
 
 As a result you let your brain establish a stronger association between the short outburst of the 'final' accomplishment and the need for dopamine. To get rid of this way of thinking you need to make it a mindful habit to separate your animalistic brain from the short-term fulfillment that you are so accustomed to float towards.
@@ -61,8 +59,7 @@ Let's take a look in detail at what the skill selection means and further down t
 
 UNDER CONSTRUCTION
 
-## Skillpaths
-
+## Skillpaths (Dopamine Pathways)
 Dopamine Trails is based on 3 of the [Directive Protocols established by Helve AVR](https://github.com/HELVE/OVERVIEW/wiki/Directive-Protocols). Think of them as chunks of code referring to stages of progress: Surival (Alpha), Knowledge/Discovery (Beta), Creativity/Expression (Gamma). Completing a setup for any of those will give you maximized dopamine boost.
 
 In order to start pursuing a Skillpath you need to fulfill your very basic needs outlined by Directive Protocol Alpha: Survival, which contains programs providing optimal mental and physical base for dopamine boosts. The following programs belong to Surival: Environment Optimization, Self-care (includes Medbay, Nutrition, Physical Training, Grounding and Guardian Subprograms), Community and Cultural Involvement as well as Safety and Security Program (Income Streams, Base Expenses, Investments and Physical Need Optimization).
@@ -71,7 +68,7 @@ Once you set up all you basic Survival needs to maximize production of dopamine 
 
 To facilitate this process so-called Enablers exist.
 
-## Enablers
+## Enablers (Dopamine Triggers)
 Enablers are points often encountered on your skillpaths (but not only there) that open doors for further major advancement in any problem that needs to be solved in order to progress.
 
 Technically by reaching an Enabler you get an immediate dopamine boost due to reaching another step or in fact a requirement for a next step. The latter distinction is essential to note here and plays a vital role in this perspective shifting process.
@@ -82,9 +79,23 @@ Most people disable their skillpaths and hide their core drives by either consci
 
 NOTES
 
+Steps atttached to benefit = progress.
+
 ??? There are 2 types of Enablers - Knowledge Enablers and Tech Enablers. Also there is the special Fjordan enabler. But that's just for kicks.
 
 People tend to gravitate toward sophisticated but primal ways of dopamine acquisition. The end result is the same whether you win a lottery or eat a cookie - another dose of dopamine.
+
+Tie your dopamine path with your goals but don't focus on the big release, just on the small dopamine releases.
+Construct Dopamine Loops (attach them to programs you want running).
+
+Little hits:
+- easy to achieve gratification
+- need to prove yourself
+- need to survive
+- give little treats intermittently 
+- measure your progress
+
+Rational self has around 4 hours of willpower before it starts using the animalistic self to extend it.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 

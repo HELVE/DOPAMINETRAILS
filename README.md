@@ -81,7 +81,7 @@ NOTES
 
 Steps atttached to benefit (filled with triggers) = progress.
 
-??? There are 2 types of Enablers - Knowledge Enablers and Tech Enablers. Also there is the special Fjordan enabler. But that's just for kicks.
+2 types of Enablers - Knowledge Enablers, Tech Enablers.
 
 People tend to gravitate toward sophisticated but primal ways of dopamine acquisition. The end result is the same whether you win a lottery or eat a cookie - another dose of dopamine.
 

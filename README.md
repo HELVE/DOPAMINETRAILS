@@ -7,7 +7,7 @@
 In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives.
 
 ## The Layers of Self
-Basis for this system lies in the assumption that 'you' consists of a **logical self**, which is your inner consciousness and the **animalistic self**, which is your brain. 
+Basis for this system lies in the assumption that 'you' consists of a **logical self**, which is your inner consciousness and the **animalistic self**, which is your brain/body.
 
 Logical self contains your **core drives** that tend to act for a short time while your animalistic self contains your outdated **bio drives** (human default is dopamine intake, propagation of DNA) that can act endlessly.
 

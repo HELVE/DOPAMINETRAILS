@@ -147,5 +147,4 @@ Insert project licensing options if there are any.
 
 <a name="credits"></a>
 ### Credits
-Thanks go to Alex Becker for providing insight 
-[https://www.youtube.com/watch?v=nrf489UDXMU]
+Thanks go to Alex Becker for providing insight. CREATE AN ADDENDUM, EXTENDED CREDITS

@@ -8,6 +8,8 @@
 
 In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives.
 
+Text below serves as a kind of a conceptual reverse engineering - going from the biggest perspective to the smallest one.
+
 ## The Layers of Self
 
 ### Twofold Self

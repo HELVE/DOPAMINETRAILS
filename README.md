@@ -1,5 +1,7 @@
 ![Project Banner](/assets/template_visuals/dopaminetrails.png)
 
+![](helve-banner.png)
+
 <a name="intro"></a>
 # PROJECT 'DOPAMINE TRAILS'
 'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as a human being and what kinds of 'enablers' you need to keep fulfilling that drive. It was mainly created with creative individuals and businesses in mind.

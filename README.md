@@ -6,9 +6,7 @@
 # PROJECT 'DOPAMINE TRAILS'
 'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as a human being and what kinds of 'enablers' you need to keep fulfilling that drive. It was mainly created with creative individuals and businesses in mind.
 
-In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives.
-
-Text below serves as a kind of a conceptual reverse engineering - going from the biggest perspective to the smallest one.
+In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives. Text below serves as a kind of a conceptual reverse engineering exercise - going from the biggest perspective to the smallest one.
 
 ## The Layers of Self
 

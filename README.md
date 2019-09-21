@@ -14,7 +14,7 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 Basis for this system lies in the assumption that 'you' consists of a **logical self**, which is your inner consciousness and the **animalistic self**, which is your brain/body.
 
 ### Human Drives
-Logical self contains your **core drives** that tend to act for a short time while your animalistic self contains your outdated **bio drives** (human default is dopamine intake, propagation of DNA) that can act endlessly.
+Logical self contains your **core drives** that tend to act for a short time while your animalistic self contains your outdated **bio drives** (human default is preferably any natural dopamine intake and propagation of DNA) that can act endlessly.
 
 ### Anima
 Now the question is how to leverage and hack these bio drives to support the core ones. Before we do that we need to look at what our animalistic side of the brain actually is.

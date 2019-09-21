@@ -1,4 +1,4 @@
-![Project Banner](/assets/template_visuals/dopaminetrails.png)
+![Project Banner](/assets/template_visuals/dopaminetrails_annotated.png)
 
 ![](helve-banner.png)
 

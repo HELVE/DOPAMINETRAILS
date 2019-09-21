@@ -93,7 +93,9 @@ As it continues, mind becomes acquainted with the notion of a reward given for t
 
 Most people disable their skillpaths and hide their core drives by either consciously or subconsciously devoting their life to quick dopamine fixes.
 
-NOTES
+## Manifestations / Brands
+
+# NOTES_____________
 
 Steps atttached to benefit (filled with triggers) = progress.
 

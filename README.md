@@ -67,6 +67,7 @@ Most of the time once you reach the highest point of excitement during project d
 The trick is to attach your dopamine triggers of the animalistic brain to the logical steps on your progress ladder and treat dopamine as an endless 'leading device', not focusing on the immediate end reward.
 
 In order for a leading device to work you need to:
+- starve yourself of negative dopamine triggers to the point where only positive dopamine triggers seem to make sense (REWORK)
 - approximate the things that will put you on a straight road to expressing your core drives using a module called Skillpaths. Think of it as attaching dopamine loops to overarching programs in yourself you actually want to be running. 
 - create a step by step masterplan for every Skillpath making sure it contains frequent Enabler modules. These are the key moments when we want the dopamine to trigger to reinforce our continous drive.
 

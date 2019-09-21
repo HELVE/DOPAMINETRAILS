@@ -36,7 +36,7 @@ Identifying with these factors serves people to suppress what really drives them
 Since you know you can't get things done you might already realize that what 'you' wants is often not aligned with what your thoughts and feelings tell you to do. Even if there seem to be logical reasons, both thoughts and feelings influence each other to spiral out of control if left unchecked. It's a looping intertwined system. Your bio drive.
 
 ### It All Comes Down To Rescripting & Leveraging Patterns
-Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns constantly change. 
+Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns constantly change to bigger or lesser degree.
 
 Scanning these patterns and your state of self would be comparable to an 'active meditation'.
 

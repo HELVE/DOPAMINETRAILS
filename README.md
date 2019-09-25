@@ -97,7 +97,7 @@ Most people disable their skillpaths and hide their core drives by either consci
 
 # NOTES_____________
 
-https://ghr.nlm.nih.gov/gene/SLC6A3
+https://ghr.nlm.nih.gov/gene/SLC6A3 - dopamine transporter deficiency syndrome
 > The SLC6A3 gene provides instructions for making a protein called the dopamine transporter or DAT. This protein is embedded in the membrane of certain nerve cells (neurons) in the brain, where it transports a molecule called dopamine into the cell. Dopamine is a chemical messenger (neurotransmitter) that relays signals from one neuron to another. Dopamine has many important functions, including playing complex roles in thought (cognition), motivation, behavior, and control of movement.
 
 > To transmit signals, dopamine is released into the space between neurons (the synaptic cleft), where it attaches (binds) to receptors on the surface of neighboring neurons. The dopamine transporter brings dopamine from the synaptic cleft back into neurons for reuse. The activity of the transporter determines how much dopamine is present in the synaptic cleft and for how long. This activity makes the transporter a major controller of dopamine signaling in the brain.

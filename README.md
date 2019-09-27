@@ -12,10 +12,15 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 ## Table of Contents
 1. [The Layers of Self.](#intro)
+
     1.1 Twofold Self
+    
     1.2 Human Drives
+    
     1.3 Anima
+    
     1.4 External Living Loops...
+    
 2. [Features.](#features)
 3. [Icebox.](#icebox)
 4. [Installation and usage guide.](#install)

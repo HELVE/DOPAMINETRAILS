@@ -45,7 +45,8 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     4.3 Tech Enablers
 
 5. [Manifestations / Brands.](#contribute)
-6. [License.](#license)
+6. [The Process.](#license) - middle of Notes section, edit
+7. [Credits.](#credits)
 7. [Credits.](#credits)
 
 <a name="features"></a>

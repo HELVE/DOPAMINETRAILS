@@ -120,6 +120,60 @@ Little hits:
 
 Rational self has around 4 hours of willpower before it starts using the animalistic self to extend it.
 
+### 2 Types of Happiness
+
+```
+Dopamine           |         Fullfillment
+                   |
+release ------>    |         what it feels like  
+drives  ------>    |         when you hit a 
+towards ------>    |         core drive direction/process
+fullfillment ->    |
+
+you need much
+more dopamine
+than fullfillment
+to propel you
+
+```
+
+**Binary Systems**
+
+Brain is a yes/no binary system.
+
+YES = DOPAMINE
+
+NO = PAIN (Points of Effort)
+
+Go through a rational pain to get dopamine. Paraphrase: effort = reward
+
+
+**Path of Least Resistance**
+
+Biodrive: subconscious will try to make as many yes points and as little no points as possible. Its goal is to get that dopamine  release with as little pain as possible (?). If the pain is too much, option gets thrown out. Same works in the marketing field. Path of least resistance for the user.
+
+**The Purge Layer**
+
+***Deep Layer (Inner Layer - the Self related to core drives)***
+
+You 
+- example: Eat Healthy Food (survival + core drive)
+- example: Create a Business (creativity + core drive)
+
+***Shallow Layer (Outer Layer - the anima and environment)***
+
+Humans tend to cover their Deep Layers with endless Layers of Shallow because their mind has been rewired to rely on quick dopamine fixes that require no "points of effort".
+
+- activities that are "shallow", that build and reinforce pointless addiction loops
+- socials
+- phone
+- tv
+- sweets
+  
+
+
+We have 
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.

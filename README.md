@@ -38,6 +38,11 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 4. [Enablers.](#install)
 
+    4.1 x
+    
+    4.2 Knowledge Enablers
+    
+    4.3 Tech Enablers
 
 5. [Manifestations / Brands.](#contribute)
 6. [License.](#license)

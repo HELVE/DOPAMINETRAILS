@@ -147,18 +147,19 @@ NO = PAIN (Points of Effort)
 
 Go through a rational pain to get dopamine. Paraphrase: effort = reward
 
-
 **Path of Least Resistance**
 
-Biodrive: subconscious will try to make as many yes points and as little no points as possible. Its goal is to get that dopamine  release with as little pain as possible (?). If the pain is too much, option gets thrown out. Same works in the marketing field. Path of least resistance for the user.
+Biodrive: subconscious will try to make as many yes points and as little no points as possible. Its goal is to get that dopamine release with as little pain as possible (?). If the pain is too much, option gets thrown out. Same works in the marketing field. Path of least resistance for the user.
 
-**The Purge Layer**
+**The Purge of Layers**
 
 ***Deep Layer (Inner Layer - the Self related to core drives)***
 
+Slow-burning dopamine release based on every day processes and methods. Requires plenty of points of effort to be spent. The process not the goal.
+
 You 
-- example: Eat Healthy Food (survival + core drive)
-- example: Create a Business (creativity + core drive)
+- example of deep layers: Eat Healthy Food (survival + core drive)
+- example of deep layers: Create a Business (creativity + core drive)
 
 ***Shallow Layer (Outer Layer - the anima and environment)***
 

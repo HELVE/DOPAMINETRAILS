@@ -34,8 +34,12 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     2.3 To The Point
      
 3. [Skillpaths.](#icebox)
+
+
 4. [Enablers.](#install)
-5. [Contributing.](#contribute)
+
+
+5. [Manifestations / Brands.](#contribute)
 6. [License.](#license)
 7. [Credits.](#credits)
 

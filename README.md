@@ -120,7 +120,7 @@ Little hits:
 
 Rational self has around 4 hours of willpower before it starts using the animalistic self to extend it.
 
-### 2 Types of Happiness
+## 2 Types of Happiness
 
 ```
 Dopamine           |         Fullfillment
@@ -137,7 +137,7 @@ to propel you
 
 ```
 
-**Binary Systems**
+### **Binary Systems**
 
 Brain is a yes/no binary system.
 
@@ -147,11 +147,11 @@ NO = PAIN (Points of Effort)
 
 Go through a rational pain to get dopamine. Paraphrase: effort = reward
 
-**Path of Least Resistance**
+### **Path of Least Resistance**
 
 Biodrive: subconscious will try to make as many yes points and as little no points as possible. Its goal is to get that dopamine release with as little pain as possible (?). If the pain is too much, option gets thrown out. Same works in the marketing field. Path of least resistance for the user.
 
-**The Purge of Layers**
+### **The Purge of Layers**
 
 ***Deep Layer (Inner Layer - the Self related to core drives)***
 
@@ -164,6 +164,17 @@ You
 ***Shallow Layer (Outer Layer - the anima and environment)***
 
 Humans tend to cover their Deep Layers with endless Layers of Shallow because their mind has been rewired to rely on quick dopamine fixes that require no "points of effort".
+
+### **Shorted Circuits**
+
+```
+Short circuited dopamine trail_
+D --->  D (most people choose the quick delivery system)
+D --------------------------------------- > D (full dopamine trail)
+
+```
+With a short circuit dopamine trail (preferring quick DR like phone, socials rather than real conversation or building something) things that require a lot of effort tend to become grey and not interesting the more you stay the same. Short circuit is created when the mental approach of a person is to rely mainly on quickfixes. As a result it covers the longterm "goals" with a metaphorical blanket. We vanish in the external, motivation drops, we become stuck.
+
 
 - activities that are "shallow", that build and reinforce pointless addiction loops
 - socials

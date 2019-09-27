@@ -10,6 +10,23 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 ***Text below is a work in progress.***
 
+## Table of Contents
+1. [The Layers of Self.](#intro)
+    1.1 Twofold Self
+    1.2 Human Drives
+    1.3 Anima
+    1.4 External Living Loops...
+2. [Features.](#features)
+3. [Icebox.](#icebox)
+4. [Installation and usage guide.](#install)
+5. [Contributing.](#contribute)
+6. [License.](#license)
+7. [Credits.](#credits)
+
+<a name="features"></a>
+
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
 ## The Layers of Self
 
 ### Twofold Self
@@ -53,6 +70,8 @@ Start from there but also understand a particular difference of perspective betw
 
 Once you incorporate the concept of your core drives, which happens to be not only a productivity advice but also a very powerful psychological tool, you can proceed with the next step: using your bio drive in a productive way by using a leading device described below.
 
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
 ## Leading Device
 
 ### Quickfix Society
@@ -75,6 +94,8 @@ Let's take a look in detail at what the skill selection means and further down t
 
 UNDER CONSTRUCTION
 
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
 ## Skillpaths (Dopamine Pathways)
 Dopamine Trails is based on 3 of the [Directive Protocols established by Helve AVR](https://github.com/HELVE/OVERVIEW/wiki/Directive-Protocols). Think of them as chunks of code referring to stages of progress: Survival (Alpha), Knowledge/Discovery (Beta), Creativity/Expression (Gamma). Completing a setup for any of those will give you maximized dopamine boost.
 
@@ -84,6 +105,8 @@ Once you set up all you basic Survival needs to maximize production of dopamine 
 
 To facilitate this process so-called Enablers exist.
 
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
 ## Enablers (Dopamine Triggers)
 Enablers are points often encountered on your skillpaths (but not only there) that open doors for further major advancement in any problem that needs to be solved in order to progress.
 
@@ -92,6 +115,8 @@ Technically by reaching an Enabler you get an immediate dopamine boost due to re
 As it continues, mind becomes acquainted with the notion of a reward given for taking advantage of an opportunity to advance on the progress instead of treating any point as a final destination. In other words, over time you start releasing dopamine whenever you find knowledge, technology or inspiration that will aid you in your further endeavours. 
 
 Most people disable their skillpaths and hide their core drives by either consciously or subconsciously devoting their life to quick dopamine fixes.
+
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 ## Manifestations / Brands
 
@@ -119,6 +144,8 @@ Little hits:
 - measure your progress
 
 Rational self has around 4 hours of willpower before it starts using the animalistic self to extend it.
+
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 ## 2 Types of Happiness
 
@@ -183,29 +210,11 @@ With a short circuit dopamine trail (preferring quick DR like phone, socials rat
 - sweets
   
 
-
-We have 
-
-![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
-
-Description.
-
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
-
-Description.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
 
-### Table of Contents
-1. [Introduction.](#intro)
-2. [Features.](#features)
-3. [Icebox.](#icebox)
-4. [Installation and usage guide.](#install)
-5. [Contributing.](#contribute)
-6. [License.](#license)
-7. [Credits.](#credits)
 
-<a name="features"></a>
 ### Features
 + Feature_01
 + Feature_02

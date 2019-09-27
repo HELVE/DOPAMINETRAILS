@@ -21,9 +21,20 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     
     1.4 External Living Loops...
     
-2. [Features.](#features)
-3. [Icebox.](#icebox)
-4. [Installation and usage guide.](#install)
+    1.5 It All Comes Down To Rescripting & Leveraging Patterns
+    
+    1.6 Core Exploration
+    
+2. [Leading Device.](#features)
+
+    2.1 Quickfix Society
+    
+    2.2 The End Syndrome
+    
+    2.3 To The Point
+     
+3. [Skillpaths.](#icebox)
+4. [Enablers.](#install)
 5. [Contributing.](#contribute)
 6. [License.](#license)
 7. [Credits.](#credits)

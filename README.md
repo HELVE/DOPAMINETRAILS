@@ -46,8 +46,19 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 5. [Manifestations / Brands.](#contribute)
 6. [The Process.](#license) - middle of Notes section, edit
-7. [Credits.](#credits)
-7. [Credits.](#credits)
+7. [Two Types of Happiness.](#credits)
+
+   7.1 Binary Systems
+   
+   7.2 Path of Least Resistance
+   
+   7.3 The Purge Layer
+       
+       Deep Layer / Inner Self Layer. 
+       
+       Shallow Layer / External.
+       
+   7.4 Shorted Circuits
 
 <a name="features"></a>
 

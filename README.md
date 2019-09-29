@@ -282,4 +282,4 @@ Insert project licensing options if there are any.
 
 <a name="credits"></a>
 ### Credits
-Thanks go to Alex Becker for providing insight. CREATE AN ADDENDUM, EXTENDED CREDITS
+Thanks go to Alex Becker, Clive Owens for providing insights. CREATE AN ADDENDUM, EXTENDED CREDITS

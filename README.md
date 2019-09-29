@@ -25,7 +25,7 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     
     1.6 Core Exploration
     
-2. [Leading Device.](#features)
+2. [Leading Device](#features)
 
     2.1 Quickfix Society
     
@@ -33,10 +33,10 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     
     2.3 To The Point
      
-3. [Skillpaths.](#icebox)
+3. [Skillpaths](#icebox)
 
 
-4. [Enablers.](#install)
+4. [Enablers](#install)
 
     4.1 x
     
@@ -44,9 +44,9 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     
     4.3 Tech Enablers
 
-5. [Manifestations / Brands.](#contribute)
-6. [The Process.](#license) - middle of Notes section, edit
-7. [Two Types of Happiness.](#credits)
+5. [Manifestations / Brands](#contribute)
+6. [The Process](#license) - middle of Notes section, edit
+7. [Two Types of Happiness](#credits)
 
    7.1 Binary Systems
    

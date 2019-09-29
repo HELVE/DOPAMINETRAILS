@@ -11,7 +11,7 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 ***Text below is a work in progress.***
 
 ## Table of Contents
-1. [The Layers of Self.](#intro)
+1. [The Layers of Self](#intro)
 
     1.1 Twofold Self
     
@@ -237,7 +237,7 @@ D --->  D (most people choose the quick delivery system)
 D --------------------------------------- > D (full dopamine trail)
 
 ```
-With a short circuit dopamine trail (preferring quick DR like phone, socials rather than real conversation or building something) things that require a lot of effort tend to become grey and not interesting the more you stay the same. Short circuit is created when the mental approach of a person is to rely mainly on quickfixes. As a result it covers the longterm "goals" with a metaphorical blanket. We vanish in the external, motivation drops, we become stuck.
+With a short circuit dopamine trail (preferring quick DR like phone, socials rather than real conversation or building something - in short: quick vs patient and conscious creation) things that require a lot of effort tend to become grey and not interesting the more you stay the same. Short circuit is created when the mental approach of a person is to rely mainly on quickfixes. As a result it covers the longterm "goals" with a metaphorical blanket. We vanish in the external, motivation drops, we become stuck.
 
 
 - activities that are "shallow", that build and reinforce pointless addiction loops

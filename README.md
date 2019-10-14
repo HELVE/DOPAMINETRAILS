@@ -142,6 +142,8 @@ Once you set up all you basic Survival needs to maximize production of dopamine 
 
 To facilitate this process so-called Enablers exist.
 
+>> Personal Traits + Processes + Environment = Creativity (Discovery of passion)
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 ## Enablers (Dopamine Triggers)

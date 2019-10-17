@@ -10,7 +10,7 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 ***Text below is a work in progress.***
 
-## Table of Contents
+## Content Table
 1. [The Layers of Self](#intro)
 
     1.1 Twofold Self
@@ -35,7 +35,6 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
      
 3. [Skillpaths](#icebox)
 
-
 4. [Enablers](#install)
 
     4.1 x
@@ -45,7 +44,9 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     4.3 Tech Enablers
 
 5. [Manifestations / Brands](#contribute)
+
 6. [The Process](#license) - middle of Notes section, edit
+
 7. [Two Types of Happiness](#credits)
 
    7.1 Binary Systems

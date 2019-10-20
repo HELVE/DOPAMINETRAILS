@@ -248,7 +248,8 @@ With a short circuit dopamine trail (preferring quick DR like phone, socials rat
 - phone
 - tv
 - sweets
-  
+ 
+RATIONAL MIND + ANIMALISTIC MIND = ANIMA
 
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 

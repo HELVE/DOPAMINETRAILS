@@ -241,7 +241,6 @@ D --------------------------------------- > D (full dopamine trail)
 ```
 With a short circuit dopamine trail (preferring quick DR like phone, socials rather than real conversation or building something - in short: quick vs patient and conscious creation) things that require a lot of effort tend to become grey and not interesting the more you stay the same. Short circuit is created when the mental approach of a person is to rely mainly on quickfixes. As a result it covers the longterm "goals" with a metaphorical blanket. We vanish in the external, motivation drops, we become stuck.
 
-
 - activities that are "shallow", that build and reinforce pointless addiction loops
 - socials
 - phone

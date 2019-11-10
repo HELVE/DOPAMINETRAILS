@@ -95,7 +95,7 @@ Since you know you can't get things done you might already realize that what 'yo
 ### It All Comes Down To Rescripting & Leveraging Patterns
 Start making progress by realizing that your thoughts and emotions are generated on the fly. They are prewritten patterns within you, which are a skewed reflection of everything you are currently living through. You don't need to give them absolute meaning every single time as the patterns constantly change to bigger or lesser degree.
 
-Scanning these patterns and your state of self would be comparable to an 'active meditation'.
+Scanning these patterns and your state of self would be comparable to an 'active meditation' (gentle but persistent self-awareness).
 
 What if they happen to be objectively useful to your existing drives? Great! Use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 

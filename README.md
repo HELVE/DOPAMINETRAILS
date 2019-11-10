@@ -105,7 +105,14 @@ What if they happen to be objectively useful to your existing drives? Great! Use
 Doubt is the precursor of fear and fear means staticity. When we become static - we unconsciously wither. Not knowing what you are good at or in what general direction you are going is usually the biggest factor contributing to doubt and being static in life. People tend to lose self-awareness very quickly in the face of difficulties (or as described later - "pain points"). They lose their will, inspiration and motivation if the subjective cost to pay is too much for them.
 
 ``` 
-Quick tip: people often think that they have to be motivated or inspired in order to act. The reality is that action, inspiration and motivation operate on the same level. One doesn't necessarily lead to the other, which means one can start with any element of this triad. Getting inspired, getting motivated or just doing something are all on equal footing on the scale of creativity. Any single one will do to stop being static.
+Quick tip: people often think that they have to be motivated 
+or inspired in order to act. The reality is that action, 
+inspiration and motivation operate on the same level. One 
+doesn't necessarily lead to the other, which means one can 
+start with any element of this triad. Getting inspired, 
+getting motivated or just doing something are all on equal 
+footing on the scale of creativity. Any single one will do 
+to stop being static.
 ```
 
 ### Core Exploration

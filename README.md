@@ -249,7 +249,9 @@ With a short circuit dopamine trail (preferring quick DR like phone, socials rat
 
 it is not about ditching absolutely everything, it is more about the awareness of what we are doing.
  
-RATIONAL MIND + ANIMALISTIC MIND = ANIMA
+RATIONAL MIND (LOGICAL THOUGHT/PREFRONTAL CORTEX) + ANIMALISTIC MIND (EMOTION) = ANIMA
+
+
 
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 

@@ -100,7 +100,7 @@ Scanning these patterns and your state of self would be comparable to an 'active
 What if they happen to be objectively useful to your existing drives? Great! Use them to propel yourself forward. If not, acknowledge them but know you don't need to act on them. They are not the actual you, they are not an accurate representation of reality.
 
 ### Core Exploration
-First you need to know what are your core drives so that you know where to invest your willpower. It can't go into something entirely undefined as it will dissipate over time or make you waste it. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Big or small, doesn't matter. You can be as abstract as you want as well - later it will get clearer as you create a skillpath/s leading towards continuous fulfillment of that drive.
+Doubt is the precursor of fear and fear means staticity. Eliminate doubt by defining yourself and remaining 'active' (remember you can always change this later). You need to know what are your core drives so that you know where to invest your willpower and energy. It can't go into something entirely undefined as it will dissipate over time or make you waste it. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Big or small, doesn't matter. You can be as abstract as you want as well - later it will get clearer as you create a skillpath/s leading towards continuous fulfillment of that drive.
 
 Start from there but also understand a particular difference of perspective between a ever-present "goal reaching" and a core drive:
 - Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an **end in itself**. Once it is reached dopamine stops releasing. 
@@ -239,7 +239,7 @@ D --->  D (most people choose the quick delivery system)
 D --------------------------------------- > D (full dopamine trail)
 
 ```
-With a short circuit dopamine trail (preferring quick DR like phone, socials rather than real conversation or building something - in short: quick vs patient and conscious creation) things that require a lot of effort tend to become grey and not interesting the more you stay the same. Short circuit is created when the mental approach of a person is to rely mainly on quickfixes. As a result it covers the longterm "goals" with a metaphorical blanket. We vanish in the external, motivation drops, we become stuck.
+With a short circuit dopamine trail (preferring quick DR like phone, socials rather than real conversation or building something - in short: quick vs patient and conscious creation) things that require a lot of effort tend to become grey and not interesting the more you stay the same. Short circuit is created when the mental approach of a person is to rely mainly on quickfixes. As a result it covers the longterm "goals" with a metaphorical blanket. We vanish in the external, motivation drops, we become stuck. Our doubts and fears crop up.
 
 - activities that are "shallow", that build and reinforce pointless addiction loops
 - socials

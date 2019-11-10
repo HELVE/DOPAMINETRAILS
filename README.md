@@ -115,8 +115,10 @@ footing on the scale of creativity. Any single one will do
 to stop being static.
 ```
 
+Eliminate doubt by defining yourself and remaining 'active' using any of these elements. 'What if I change?' you may ask. Remember you can always change your direction later, mind is an ever-changing entity and it would be foolish to create permanent rigid structures to direct it. Be aware, self-evaluate often.
+
 ### Core Exploration
-Eliminate doubt by defining yourself and remaining 'active' (remember you can always change this later). You need to know what are your core drives so that you know where to invest your willpower and energy. It can't go into something entirely undefined as it will dissipate over time or make you waste it. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Big or small, doesn't matter. You can be as abstract as you want as well - later it will get clearer as you create a skillpath/s leading towards continuous fulfillment of that drive.
+You need to know what are your core drives so that you know where to invest your willpower and energy. It can't go into something entirely undefined as it will dissipate over time or make you waste it. Define your drives by recognizing if there is anything else apart from the baseline biological imperatives that really drives you. Big or small, doesn't matter. You can be as abstract as you want as well - later it will get clearer as you create a skillpath/s leading towards continuous fulfillment of that drive.
 
 Start from there but also understand a particular difference of perspective between a ever-present "goal reaching" and a core drive:
 - Goal is what usually people mentally project when they want to describe what they want. As a mental construct it is an **end in itself**. Once it is reached dopamine stops releasing. 

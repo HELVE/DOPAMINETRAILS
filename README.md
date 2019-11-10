@@ -23,7 +23,9 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
     
     1.5 It All Comes Down To Rescripting & Leveraging Patterns
     
-    1.6 Core Exploration
+    1.6 Staticity vs Creativity
+    
+    1.7 Core Exploration
     
 2. [Leading Device](#features)
 

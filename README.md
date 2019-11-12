@@ -8,7 +8,11 @@
 
 In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives. Text below serves as a kind of a conceptual reverse engineering exercise - going from the biggest perspective to the smallest one.
 
+*work in progress note* (staticity vs creativity - David Deutsch)
+
 > Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
+
+What people want most in life is either escapism or convencience. Escapism for the sake of escapism makes them static. Creating convenience actually makes them grow, enables them, gives them the tools for being creative with their life. It's a shortcut to start a transformation. Here is a convenient structural system to figure out yourself and your life.
 
 ***Text below is a work in progress.***
 

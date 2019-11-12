@@ -8,8 +8,6 @@
 
 In its nature it is a **dopamine-based progression system** helping you chart out your life or project the way you see fit and providing a discovery platform for skill selection and more importantly your core drives. Text below serves as a kind of a conceptual reverse engineering exercise - going from the biggest perspective to the smallest one.
 
-> "War between monotony and novelty, between stasis and creativity and in this war our side (human side) is not destined to lose. (...) Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
-
 ***Text below is a work in progress.***
 
 ## Content Table
@@ -272,6 +270,8 @@ it is not about ditching absolutely everything, it is more about the awareness o
 RATIONAL MIND (LOGICAL THOUGHT/PREFRONTAL CORTEX) + ANIMALISTIC MIND (EMOTION) = ANIMA
 
 static emotional residue
+
+Staticity vs creativity.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 

@@ -12,7 +12,7 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 > Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
 
-What people want most in life is either escapism or convencience. Escapism for the sake of escapism makes them static. Creating convenience actually makes them grow, enables them, gives them the tools for being creative with their life. It's a shortcut to start a transformation. Here is a convenient structural system to figure out yourself and your life.
+What people want most in life is either escapism or convencience. Escapism for the sake of escapism makes them static. Creating convenience actually makes them grow, enables them, gives them the tools for being creative with their life. It's a shortcut to start a transformation. Hence, here is a convenient structural system to figure out yourself and your life.
 
 ***Text below is a work in progress.***
 

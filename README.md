@@ -269,7 +269,7 @@ it is not about ditching absolutely everything, it is more about the awareness o
  
 RATIONAL MIND (LOGICAL THOUGHT/PREFRONTAL CORTEX) + ANIMALISTIC MIND (EMOTION) = ANIMA
 
-
+static emotional residue
 
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 

@@ -285,6 +285,8 @@ Abraham Maslow ties into this very well.
 
 Our software doesn't match modern times.
 
+> "Humans are like monkeys with grenades. Some of them know how to handle it but majority doesn't."
+
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 
 ![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)

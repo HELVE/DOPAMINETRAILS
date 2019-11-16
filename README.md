@@ -283,6 +283,8 @@ Abraham Maslow ties into this very well.
 
 > Maslow’s hierarchy, briefly, is the idea that you have to satisfy your more basic needs before higher levels of intellectual fulfillment are possible. You can’t do poetry if you’re worried about what you’re going to eat today.
 
+Our software doesn't match modern times.
+
 ![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 
 ![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)

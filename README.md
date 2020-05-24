@@ -16,6 +16,8 @@ What people want most in life is either escapism or convencience. Escapism for t
 
 ***Text below is a work in progress.***
 
+https://en.wikipedia.org/wiki/Positive_disintegration
+
 ## Content Table
 1. [The Layers of Self](#intro)
 

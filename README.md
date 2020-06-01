@@ -29,6 +29,8 @@ In Level IV the person takes full control of their development. The involuntary 
 
 Note: do not fall into the false pretense of setting yourself up for an illusion of progress, do not get hooked on the self development spiral, set your own goals and once you have them act on them, re-evalute when you feel it is absolutely necessary. You do not need to create another negative dopamine trail by constantly searching for a better path to your vision of yourself. This in itself can become a never-ending rabbit hole. 
 
+Note: don't take long to take action. At some point of self-analysis the amount of searching and consuming might overpower your ability to act.
+
 ## Content Table
 1. [The Layers of Self](#intro)
 

@@ -27,6 +27,8 @@ In Level IV the person takes full control of their development. The involuntary 
 
 > Given their genuine (authentic) prosocial outlook, people achieving higher development also raise the level of their society. Prosocial here is not just support of the existing social order. If the social order is lower and you are adjusted to it, then you also reflect the lower (negative adjustment in Dąbrowski's terms, a Level I feature). Here, prosocial is a genuine cultivation of social interactions based on higher values. These positions often conflict with the status quo of a lower society (positive maladjustment). In other words, to be maladjusted to a low-level society is a positive feature.
 
+Note: do not fall into the false pretense of setting yourself up for an illusion of progress, do not get hooked on the self development spiral, set your own goals and once you have them act on them, re-evalute when you feel it is absolutely necessary. You do not need to create another negative dopamine trail by constantly searching for a better path to your vision of yourself. This in itself can become a never-ending rabbit hole. 
+
 ## Content Table
 1. [The Layers of Self](#intro)
 

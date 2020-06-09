@@ -2,6 +2,8 @@
 
 ![](helve-banner.png)
 
+> "I must create my own system, or be enslaved by another's." William Blake
+
 <a name="intro"></a>
 # PROJECT 'DOPAMINE TRAILS'
 'Dopamine Trails' is a project coming out of desperation and a dire need for an effective way to discover and track what truly drives you as a human being and what kinds of 'enablers' you need to keep fulfilling that drive. It was mainly created with creative individuals and businesses in mind. It acts as a toolkit one can use to figure out necessary life elements.

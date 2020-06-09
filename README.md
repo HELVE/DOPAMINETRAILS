@@ -361,3 +361,38 @@ Alex Becker for providing insights. CREATE AN ADDENDUM, EXTENDED CREDITS
 - read Willhelm Reich - home theraphy
 - read Hyatt - Energized undoing
 - After 10+ years of living for other people and living externally (solely identifying myself only with what I feel and what I think) I finally broke down emotionally and mentally about 2 years ago after a prolonged streak of suffering, trauma focus and mental pain. This drove me into a rather rebellious mode where I researched all kinds of approaches to psychology and in desperation contructed a system that was designed to deconstruct the programming, detaching the external programs and resetting the patterns. Most people tend to live externally - by that I mean based on body taking in impulses from the outside that tend to manifest within after a while (tensions, pains), based on their mind (other people's propagating certain perception of the external world and thought patterns that were ingrained within them over the years). I call it Dopamine Trails as I mostly use dopamine control/reassigning the importance of the body effects in order to drive myself towards fulfillment of self-reinforcing "core drives" that I established for myself when I dove deep into who I really am and what I really want from life. I feel your approach is very much similar to what I did to myself to get out of the rut and finally manifest "the true self" or as I like to call it "core drive". Fake suffering you describe is also the outcome of prolonged stay within the identity of a victim to the point where feeling pain releases dopamine that is normally associated with pleasure.
+
+---
+
+> Hi Garett,
+
+> Really glad to connect, my friend who went through Hyatt's "Undoing Yourself" system for half a year pointed out to me today that the self-analysis system I used to overcome the fake self (I call it hollow self) has some resemblance to Undoing. From there I found your YouTube channel and found it very interesting.
+
+> So to expand a bit on the comment I left under your video:
+
+> The issues of anxiety and tension you speak of are a bit diminished for me after practicing my mindset for about 9 months now, however they still reside within me and manifest frequently in varying intensity.
+
+> Last year in October after putting some initial work into Dopamine Trails and starting to practice my theories I purged all toxic relationships from life, which meant pretty much starting from scratch, almost no one local was spared. Also purged most of the bad long term habits/patterns. Moved my priorities from those habits to what I call Enablers.
+
+> They can be either mental or physical - effect is the same, release of positive/productive dopamine over a longer period of time. We are so used to quickfix dopamine (the short dopamine trail) that we get lost in a vicious cycle of trying to please our brain (or what you call the war with your mind) and not seeing the bigger picture. We use them to be either at least present within the moment or to cope with the past, while future becomes bleak and uninteresting.
+
+> The Enablers I mentioned are designed to propel progress towards a certain state of mind, not a final end-game goal mind you. I think when we set specific finite goals for ourselves we halt our activities in a way as when we accomplish them dopamine stop releasing and wants us to redirect out effort in a new direction (often completely different).
+
+> Knowing where I want to go means I want not to achieve a goal but go for and stay in a specific state of mind, a perpetual progress that I know is fulfilling my Core Drives. Of course it depends entirely on how well a person self-analyses themselves. There are no Core Drives without knowing oneself fully or to a major extent (reconnecting).
+
+> I went a bit on an exploratory journey for a moment here so let me backtrack a little bit. 
+
+> At the same time I started practicing Dopamine Trails it coincided with a loss of job and loss of my only tools of work as well as some drastic health effects. My negative dopamine habits used to probably mask the issues and emotional distress that in turn came out when I stopped giving in to the old patterns of thinking.
+
+> I observed a dramatic loss of health, which rendered me rather motionless from November 2019 till March 2020. Facial tension became unbearable to the point I couldn't even focus or think clearly. I used to blame it fully on my chronic allergies and perhaps a persistent sinus inflammation and to some degree it might have been exactly that. 
+
+> However, the observed fact is tensions that started manifesting after "the purge"/rewiring persist to this day and I'm no longer convinced it is a physical health issue as medical personnel didn't see anything.
+
+> As for the effects these days: I tend to get very low energy most of the time during the day (it is a sinusoid as I tend to have massive amounts of creative energy and motivation when I'm fulfilling my core drives) and every other week, back muscles get painful and tense. The most curious thing though is that from time to time I get a weird tension inside my head in the middle between the eyes, deeper than the sinuses and I suspect it is some sort of muscle being tense in a very specific way - the type of face exercises you give in your featured video do help as I observed in the past.
+
+> I'll end this e-mail with the mantra that initially started the whole process of recovery and designing a mental system: "Thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to all of them".
+
+> Hope you are doing well! I can sense you are a compassionate person. I hope you are okay with me sharing details of some of my observations and that it gives you some pointers to talk about.
+
+> Best of wishes,
+> Tim

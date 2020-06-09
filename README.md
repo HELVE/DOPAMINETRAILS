@@ -357,3 +357,6 @@ Insert project licensing options if there are any.
 <a name="credits"></a>
 ### Credits
 Alex Becker for providing insights. CREATE AN ADDENDUM, EXTENDED CREDITS
+
+- read Willhelm Reich - home theraphy
+- read Hyatt - Energized undoing

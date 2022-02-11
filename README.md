@@ -178,7 +178,25 @@ UNDER CONSTRUCTION
 ## Skillpaths (Dopamine Pathways)
 Dopamine Trails is based on 3 of the [Directive Protocols established by Helve AVR](https://github.com/HELVE/OVERVIEW/wiki/Directive-Protocols). Think of them as chunks of code referring to stages of progress: Survival (Alpha), Knowledge/Discovery (Beta), Creativity/Expression (Gamma). Completing a setup for any of those will give you maximized dopamine boost.
 
-In order to start pursuing a Skillpath you need to fulfill your very basic needs outlined by Directive Protocol Alpha: Survival, which contains programs providing optimal mental and physical base for dopamine boosts. The following programs belong to Surival: Environment Optimization, Self-care (includes Medbay, Nutrition, Physical Training, Grounding and Guardian Subprograms), Community and Cultural Involvement as well as Safety and Security Program (Income Streams, Base Expenses, Investments and Physical Need Optimization). REORGANIZE - CHECK THE ASSIGNED NAMING IN NOTION APP
+In order to start pursuing a Skillpath you need to fulfill your very basic needs outlined by Directive Protocol Alpha: Survival, which contains programs providing optimal mental and physical base for dopamine boosts. 
+
+The following programs belong to Surival: 
+
+- Environment Optimization
+- Self-care 
+-- Medbay
+-- Nutrition 
+-- Physical Training
+-- Grounding
+-- Guardian Subprograms 
+- Community and Cultural Involvement
+- Safety and Security Program 
+-- Income Streams
+-- Base Expenses
+-- Investments
+-- Physical Need Optimization). 
+
+REORGANIZE - CHECK THE ASSIGNED NAMING IN NOTION APP
 
 Once you set up all you basic Survival needs to maximize production of dopamine in your body, visualize your skills as paths. They are the various ways enabling you to express your core drives, each path representing another expansion towards feeling fulfullment and another opportunity to introduce the dopamine stick and carrot bringing you further along wherever you want to go. 
 

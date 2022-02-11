@@ -184,17 +184,17 @@ The following programs belong to Surival:
 
 - Environment Optimization
 - Self-care 
--- Medbay
--- Nutrition 
--- Physical Training
--- Grounding
--- Guardian Subprograms 
+1. Medbay
+2. Nutrition 
+3. Physical Training
+4. Grounding
+5. Guardian Subprograms 
 - Community and Cultural Involvement
 - Safety and Security Program 
--- Income Streams
--- Base Expenses
--- Investments
--- Physical Need Optimization). 
+1. Income Streams
+2. Base Expenses
+3. Investments
+4. Physical Need Optimization
 
 REORGANIZE - CHECK THE ASSIGNED NAMING IN NOTION APP
 

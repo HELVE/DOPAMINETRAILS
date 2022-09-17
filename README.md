@@ -16,6 +16,8 @@ In its nature it is a **dopamine-based progression system** helping you chart ou
 
 What people want most in life is either escapism or convencience. Escapism for the sake of escapism makes them static. Creating convenience actually makes them grow, enables them, gives them the tools for being creative with their life. It's a shortcut to start a transformation. Hence, here is a convenient structural system to figure out yourself and your life.
 
+> Metacognition - thinking about thinking.
+
 ***Text below is a work in progress.***
 
 Note: Dopamine Trails aligns really well with the theory of Positive Disintegration. Level IV being the possible aim of the whole ordeal of dopamine shifting.
